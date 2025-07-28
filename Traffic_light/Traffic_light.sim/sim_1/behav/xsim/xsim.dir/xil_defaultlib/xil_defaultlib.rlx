@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/FPGA/Traffic_light/Traffic_light.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+E:/RTL/xtermhome/Traffic light/Dengiaothong/BCDmodule.v,1713670245,verilog,,E:/RTL/xtermhome/Traffic light/Dengiaothong/Dengiaothong.v,,BCDmodule,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/RTL/xtermhome/Traffic light/Dengiaothong/Dengiaothong.v,1713687031,verilog,,E:/RTL/xtermhome/Traffic light/Dengiaothong/FSM.v,,Dengiaothong,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/RTL/xtermhome/Traffic light/Dengiaothong/Dengiaothongtest.v,1713687167,systemVerilog,,,,Dengiaothongtest,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/RTL/xtermhome/Traffic light/Dengiaothong/FSM.v,1714902906,verilog,,E:/RTL/xtermhome/Traffic light/Dengiaothong/add3.v,,FSM,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/RTL/xtermhome/Traffic light/Dengiaothong/add3.v,1713669204,verilog,,E:/RTL/xtermhome/Traffic light/Dengiaothong/segment7.v,,add3,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/RTL/xtermhome/Traffic light/Dengiaothong/segment7.v,1714805046,verilog,,,,segment7,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

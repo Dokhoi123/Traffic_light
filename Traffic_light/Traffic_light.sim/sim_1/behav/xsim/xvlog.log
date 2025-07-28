@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/RTL/xtermhome/Traffic light/Dengiaothong/BCDmodule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDmodule
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/RTL/xtermhome/Traffic light/Dengiaothong/Dengiaothong.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dengiaothong
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/RTL/xtermhome/Traffic light/Dengiaothong/FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/RTL/xtermhome/Traffic light/Dengiaothong/add3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add3
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/RTL/xtermhome/Traffic light/Dengiaothong/segment7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module segment7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/RTL/xtermhome/Traffic light/Dengiaothong/Dengiaothongtest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dengiaothongtest
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/Traffic_light/Traffic_light.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
